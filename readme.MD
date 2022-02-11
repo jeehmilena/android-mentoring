@@ -21,8 +21,14 @@
 	- [Level 1](#level-1)
 	- [Level 2](#level-2)
 	- [Level 3](#level-3)
+
+
 ## Roadmaps
-Faça o download do [arquivo](roadmaps/fluxo_estudo_android_jr.drawio) e acesse o [DRAW.IO](https://draw.io)  e importe para ele o arquivo *.drawio que deseja visualizar.
+Aqui você pode ver em resumo qual será a jornada de aprendizado
+
+![planejamento-estudo](https://user-images.githubusercontent.com/8833388/153666442-0abc1ad9-48b4-4cd3-a03d-25a11712f972.jpeg)
+
+
 
 ## Materiais
 
